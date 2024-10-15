@@ -1,0 +1,16 @@
+{
+  "name": "wilders",
+  "version": "4.4.4",
+  "description": "paquet changer couleur",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+  },
+  "author": "Siméon",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
